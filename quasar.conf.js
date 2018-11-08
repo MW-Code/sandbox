@@ -1,5 +1,5 @@
 // Configuration for your app
-
+/*eslint-disable */
 module.exports = function (ctx) {
   return {
     // app plugins (/src/plugins)
@@ -36,7 +36,7 @@ module.exports = function (ctx) {
     },
     devServer: {
       // https: true,
-      // port: 8080,
+       port: 8090,
       open: true // opens browser window automatically
     },
     // framework: 'all' --- includes everything; for dev only!
