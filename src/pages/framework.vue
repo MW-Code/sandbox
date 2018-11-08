@@ -11,4 +11,8 @@ export default {
 </script>
 
 <style>
+h1 {
+    color: orange;
+    background-color: black;
+}
 </style>
